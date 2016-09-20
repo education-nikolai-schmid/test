@@ -1,3 +1,5 @@
 class HelloWorld {
-	
+	public HelloWorld {
+		
+	}
 }
